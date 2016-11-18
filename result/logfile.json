@@ -1,0 +1,35 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 2
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\ParameterManagementServices\\AllTest",
+    "tests": 2
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\ParameterManagementServices\\AllTest",
+    "test": "MasterCard\\Api\\ParameterManagementServices\\AllTest::test_1_example_get_partner_status"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\ParameterManagementServices\\AllTest",
+    "test": "MasterCard\\Api\\ParameterManagementServices\\AllTest::test_1_example_get_partner_status",
+    "status": "pass",
+    "time": 0.58999490737915,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\ParameterManagementServices\\AllTest",
+    "test": "MasterCard\\Api\\ParameterManagementServices\\AllTest::test_2_example_update_partner_status"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\ParameterManagementServices\\AllTest",
+    "test": "MasterCard\\Api\\ParameterManagementServices\\AllTest::test_2_example_update_partner_status",
+    "status": "pass",
+    "time": 0.32903099060059,
+    "trace": [],
+    "message": "",
+    "output": ""
+}

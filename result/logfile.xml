@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="2" assertions="0" failures="0" errors="0" time="0.919026">
+    <testsuite name="MasterCard\Api\ParameterManagementServices\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-PMS-Php/workspace/generated-code/parameter-management-services/php/sdk/Test/MasterCard/Api/ParameterManagementServices/AllTest.php" tests="2" assertions="0" failures="0" errors="0" time="0.919026">
+      <testcase name="test_1_example_get_partner_status" class="MasterCard\Api\ParameterManagementServices\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-PMS-Php/workspace/generated-code/parameter-management-services/php/sdk/Test/MasterCard/Api/ParameterManagementServices/AllTest.php" line="58" assertions="0" time="0.589995"/>
+      <testcase name="test_2_example_update_partner_status" class="MasterCard\Api\ParameterManagementServices\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-PMS-Php/workspace/generated-code/parameter-management-services/php/sdk/Test/MasterCard/Api/ParameterManagementServices/AllTest.php" line="100" assertions="0" time="0.329031"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

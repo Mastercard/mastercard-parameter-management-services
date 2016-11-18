@@ -1,0 +1,4 @@
+TAP version 13
+ok 1 - MasterCard\Api\ParameterManagementServices\AllTest::test_1_example_get_partner_status
+ok 2 - MasterCard\Api\ParameterManagementServices\AllTest::test_2_example_update_partner_status
+1..2

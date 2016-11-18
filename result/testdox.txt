@@ -1,0 +1,4 @@
+MasterCard\Api\ParameterManagementServices\All
+ [x] 1 example get partner status
+ [x] 2 example update partner status
+
